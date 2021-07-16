@@ -1,0 +1,9 @@
+.banner{
+    background-color: wheat;
+    background-image: url("../img/lemon-pie\ 1.svg");
+    background-repeat: no-repeat;
+    background-size: cover;    
+    background-attachment: fixed;
+    background-position: -300px -40%;
+    height: 400px;
+}
